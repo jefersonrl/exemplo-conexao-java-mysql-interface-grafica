@@ -85,15 +85,4 @@ public class AlunosExec extends JFrame{
 		public static void main(String args[]) {
 			AlunosExec ex = new AlunosExec();
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
 }
